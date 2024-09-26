@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+    While True:
+      try:
+          do_something()
+      except Exception as L:
+          handle_failure(L)
+      finally:
+          continue
+
+
+
+
 <!--
 **burhan013/burhan013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
