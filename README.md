@@ -7,7 +7,7 @@
       except Exception as L:
           handle_failure(L)
       finally:
-          continue
+          do_something()
 
 
 
